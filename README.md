@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bert,Docker,**
 
-- 📝 I regularly write articles on [Blog](http://surl.li/dlbtn)
+- 📝 My first articles on [Blog](http://surl.li/dlbtn)
 
 - 💬 Ask me about **Html,C++,java...**
 
