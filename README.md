@@ -7,7 +7,7 @@
 
 - 📝 My first articles on [Blog](http://surl.li/dlbtn)
 
-- 💬 Ask me about **Html,C++,java,sql...**
+- 💬 Ask me about **Html,C++,java,sql....**
 
 - 📫 How to reach me **ravindrahvasudeva@gmail.com**
 
