@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindra Hv</h1>
+<h1 align="center">Hi 👋, I'm Ravindra HV</h1>
 <h3 align="center">" Enthusiastic Computer Science Engineering Student from India "</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrahvasudeva&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrahvasudeva" /> </p>
