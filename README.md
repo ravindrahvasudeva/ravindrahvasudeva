@@ -9,7 +9,7 @@
 
 - 🦾 My  [Portfolio](https://ravindrahvasudeva.github.io/)
 
-- 💬 Ask me about **Html,C++,java,sql....**
+- 💬 Ask me about **Html,C++,java,sql...**
 
 - 📫 How to reach me **ravindrahvasudeva@gmail.com**
 
