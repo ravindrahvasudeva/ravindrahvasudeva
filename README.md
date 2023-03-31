@@ -1,4 +1,4 @@
-<p align="left"> <img src="[[rce=sharebutton)](https://www.canva.com/design/DAFeyT4SU8k/JXMkhHPORQ_pq7HcibClcw/edit?analyticsCorrelationId=ac69b88a-2227-4504-8f3d-e016a735a888)" alt="ravindrahvasudeva" /> </p>
+![ My Banner](https://user-images.githubusercontent.com/112745653/229201812-e3550e01-0647-4a9c-ad53-a68919bc029f.png)
 <h1 align="center">Hi 👋, I'm Ravindra HV</h1>
 <h3 align="center">" Enthusiastic Computer Science Engineering Student from India "</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
