@@ -1,4 +1,4 @@
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ravindrahvasudeva&label=Profile%20views&color=0e75b6&style=flat](https://www.canva.com/design/DAFeyT4SU8k/JXMkhHPORQ_pq7HcibClcw/edit?utm_content=DAFeyT4SU8k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="ravindrahvasudeva" /> </p>
+<p align="left"> <img src="[[rce=sharebutton)](https://www.canva.com/design/DAFeyT4SU8k/JXMkhHPORQ_pq7HcibClcw/edit?analyticsCorrelationId=ac69b88a-2227-4504-8f3d-e016a735a888)" alt="ravindrahvasudeva" /> </p>
 <h1 align="center">Hi 👋, I'm Ravindra HV</h1>
 <h3 align="center">" Enthusiastic Computer Science Engineering Student from India "</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
